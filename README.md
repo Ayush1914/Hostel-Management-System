@@ -57,8 +57,8 @@ The Hostel Management System is a console-based Java application developed using
 
 ### Contributor
 
-Sarang Malve
-https://github.com/Sarang278/Hostel-Management-System
+Sarang Malve-
+(https://github.com/Sarang278)
 
 
 
