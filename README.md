@@ -1,5 +1,7 @@
 # Hostel-Management-System
 Hibernate Project
+![image](https://github.com/user-attachments/assets/97504672-87c2-4ff7-a355-4f30ad3f4d42)
+
 The Hostel Management System is a console-based Java application developed using Hibernate ORM. It aims to provide a user-friendly experience for managing hostel operations, including hostels, rooms, students, bookings, payments, and complaints. The system stores records related to hostels, rooms, students, wardens, bookings, payments, and complaints.
 
 Features
@@ -17,26 +19,3 @@ Maven
 MySQL
 Eclipse
 Overview of Project
-Main Operations
-Screenshot (44)
-
-Hostel Operations
-Screenshot (45)
-
-Room Operations
-Screenshot (46)
-
-Student Operations
-Screenshot (52)
-
-Booking Operations
-Screenshot (46)
-
-Payment Operations
-Screenshot (48)
-
-Complaint Operations
-Screenshot (49)
-
-Warden Operations
-Screenshot (50)
